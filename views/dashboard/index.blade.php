@@ -1,0 +1,10 @@
+@extends('layouts.template')
+@section('location')
+    Dashboard
+@endsection
+@section('title')
+    Dashboard
+@endsection
+@section('main-content')
+    Dashboard
+@endsection
